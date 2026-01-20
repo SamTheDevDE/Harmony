@@ -1,6 +1,6 @@
 [submodule "HarmonyClient"]
 	path = HarmonyClient
-	url = .\\HarmonyClient\\
+	url = https://github.com/SamTheDevDE/HarmonyClient
 [submodule "HarmonyServer"]
 	path = HarmonyServer
-	url = .\\HarmonyServer\\
+	url = https://github.com/SamTheDevDE/HarmonyServer
